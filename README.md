@@ -3,6 +3,7 @@ Sehan Munir <br>
 William Lyon Mackenzie MACS '26 🎓 <br>
 Some Stuff: <br>
 - [Personal Website](https://emera1d3x.github.io/)  👤💼 <br>
+- [TDSB Student Senate Campaigning Website](https://vote4sehan.github.io/) ✉️👔 <br>
 - [Boolean Algebra Simulator](https://emera1d3x.github.io/Boolean-Algebra/homepage.html) !&|^⊕<br>
 - [WebFlex - Browser Extension](https://emera1d3x.github.io/WebFlex/homepage.html) 🤖👾 <br>
 - [WLMAC Robotics Club Showcase - Simplistic Coding Interface](https://emera1d3x.github.io/RoboticsClubShowcase/index.html) 🌐🛠️ <br>
