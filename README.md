@@ -11,5 +11,5 @@ Some Stuff: <br>
 - [TDSB Student Senate Campaigning Website](https://vote4sehan.github.io/) ✉️👔 <br>
 - [More Projects](https://emera1d3x.github.io/projects.html), [More Code](https://github.com/Emera1d3x?tab=repositories) ➕➕
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sehan-Munir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sehanmunirgoldar@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emera1d3x_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sehanmunir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/emera1d3x/)
 ---
