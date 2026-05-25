@@ -1,7 +1,7 @@
 ## < Info />
 Sehan Munir <br>
+UofT Computer Engineering 2026-? 🎓 <br>
 William Lyon Mackenzie MACS '26 🎓 <br>
-UofT Computer Engineering 2026-? <br>
 Some Stuff: <br>
 - [Personal Website](https://emera1d3x.github.io/) 👤💼 <br>
 - [Boolean Algebra Simulator](https://emera1d3x.github.io/Boolean-Algebra/homepage.html) !&|^⊕<br>
